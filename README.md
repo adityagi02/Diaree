@@ -1,2 +1,4 @@
 # Diarëë
-Yess!! Diary App📝📔
+Yess!! Diary App📝📔 for macOS
+
+# `!! Under Construction !!`
